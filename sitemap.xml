@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://autolin.github.io/categories/</loc>
+    <loc>http://autolin.github.io/autolin/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://autolin.github.io/</loc>
+    <loc>http://autolin.github.io/autolin/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://autolin.github.io/tags/</loc>
+    <loc>http://autolin.github.io/autolin/tags/</loc>
     <priority>0</priority>
   </url>
   
